@@ -1,7 +1,7 @@
 # Perceptron
 Graphical Implementations of the Perceptron and Pocket Perceptron Algorithms in Matlab
 
-I created three simple live graphical implementations of the Perceptron algorithm and Gallant's Pocket Perceptron algorithm using Matlab as part of my learning experience for the course of Computational Intelligence.
+I created three simple live graphical implementations of the Perceptron algorithm and Gallant's Pocket Perceptron algorithm using Matlab as part of my learning experience for the course of Computational Intelligence at DIT.UOI.
 
 Supervising professor: Stavros P. Adam
 
